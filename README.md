@@ -4,15 +4,15 @@
 - 💞️ I’m looking to collaborate on AWS Automation projects.
 - 📫 How to reach me ..
 - Email: 
--   NolanPriebe@gmail.com - personal
--   nolan.priebe@helpsystems.com - work
+-     NolanPriebe@gmail.com - personal
+-     nolan.priebe@helpsystems.com - work
 - Proficient Skills:
--   Web Services (REST, HTTPS, SOAP, etc)
--   Scripting languages (Bash, powershell, cmd)
--   Security Focus
+-     Web Services (REST, HTTPS, SOAP, etc)
+-     Scripting languages (Bash, powershell, cmd)
+-     Security Focus
 - Experience with:
--   Jave 
--   Python
+-     Jave 
+-     Python
 -   AWS Services 
 -     Cloud Formation
 -     Databases
