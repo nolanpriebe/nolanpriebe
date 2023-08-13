@@ -11,8 +11,10 @@
 -     Scripting languages (Bash, powershell, cmd)
 -     Security Focus
 - Experience with:
--     Jave 
+-     Java 
 -     Python
+-     React
+-     AWS
 -   AWS Services 
 -     Cloud Formation
 -     Databases
